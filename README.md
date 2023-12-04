@@ -53,19 +53,11 @@ Visit [http://localhost:8501](http://localhost:8501) in your web browser to acce
 
 For a quick overview of how the application works, check out our [demo link](https://samtechy26-store-inventory-management-web-app-app-zuq0hc.streamlit.app/). The demo provides a step-by-step guide on using the application and showcases its key features.
 
-## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-*Caption for Screenshot 1*
-
-![Screenshot 2](screenshots/screenshot2.png)
-*Caption for Screenshot 2*
-
-Add more screenshots as needed to showcase different aspects of your project.
 
 ## Contributing
 
-We welcome contributions! If you have any suggestions or find a bug, please open an issue or submit a pull request.
+I welcome contributions! If you have any suggestions or find a bug, please open an issue or submit a pull request.
 
 ## License
 
