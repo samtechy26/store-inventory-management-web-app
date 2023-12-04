@@ -1,4 +1,5 @@
 # Store Inventory Management App
+![Image Alt text](https://github.com/samtechy26/store-inventory-management-web-app/blob/main/screenshots/Screenshot-1.png)
 
 Welcome to the store inventory management web application! This application is built using Streamlit, Pandas, and Plotly to provide an interactive and insightful way to analyze sales data. Users can filter the data by region, state, and city, and the application will display the percentage of sales based on the selected filters.
 
