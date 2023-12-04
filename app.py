@@ -9,9 +9,10 @@ st.set_page_config(
 )
 
 st.title(" :bar_chart: Sample Store Inventory Management")
+st.markdown('<style>div.block-container{padding-top:1rem;}</style>',unsafe_allow_html=True)
 
 file_uploader = st.file_uploader(
-    ":file_uploader: Upload a file ", type=(["csv", "txt", "xlsx"])
+    ":file_folder: Upload a file ", type=(["csv", "txt", "xlsx"])
 )
 
 if file_uploader:
